@@ -15,6 +15,7 @@ const Contact = () => {
             <a href='mailto: Theelipan@gmail.com' className='border-b-2 mt-3 inline-block border-gray-500'>
               pavanc1997@gmail.com
             </a>
+            <p>Phone No: 9951407063</p>
           </div>
           <a className='border-b-2 mt-3 inline-block border-gray-500' href='./pavanresume.pdf' target='_blank' rel='noreferrer'>
             Resume
