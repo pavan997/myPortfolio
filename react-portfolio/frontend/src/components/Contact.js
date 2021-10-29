@@ -61,7 +61,7 @@ const Contact = () => {
             <h1>Know Who I'm:</h1>
             <h2> I am Pavan from Warangal, Telangana.<br/>
                 Skilled MERN Stack and WEB Developer.
-                Bachelor in Computer Science from CMR Institute Of Technology Affiliated to JNTU Hyderbad.
+                Bachelor in Computer Science from CMR Institute Of Technology Affiliated to JNTU Hyderabad.
             </h2>
             <h2>Apart from coding, Some other activites that I love to do - </h2>
             <li>Watching Movies</li>
