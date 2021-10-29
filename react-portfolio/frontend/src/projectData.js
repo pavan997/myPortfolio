@@ -16,7 +16,7 @@ const projects = [
     description: 'This website is a clone of Makemytrip.com, we have implemented the features like search based on the flight stoppage ,flight company and location. This is a collaborative project done with a team of four members and executed in five days.',
     tools: ['Javascript', 'REACT','NODE js','MongoDB'],
     github: 'https://github.com/nitish14920/MakeMyTrip',
-    // link: '',
+    link: 'https://github.com/nitish14920/MakeMyTrip',
   },
 
 ];
