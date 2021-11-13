@@ -9,14 +9,7 @@ const Contact = () => {
       </header>
       <div className='md:mx-6 flex flex-col flex-wrap md:flex-row justify-between'>
         <div className='md:w-6/12 md:px-0 p-5 my-5'>
-          <div>
-            <p className='font-bold'>Ch N Pavan kumar</p>
-            <p className='font-thin'>Warangal,Telangana</p>
-            <a href='mailto: Theelipan@gmail.com' className='border-b-2 mt-3 inline-block border-gray-500'>
-              pavanc1997@gmail.com
-            </a>
-            <p>Phone No: 9951407063</p>
-          </div>
+          
           <a className='border-b-2 mt-3 inline-block border-gray-500' href='./pavanresume.pdf' target='_blank' rel='noreferrer'>
             Resume
           </a>
@@ -38,6 +31,7 @@ const Contact = () => {
                 </span>
               </a>
             </div>
+            
 
             {/* <a href='https://codepen.io/Theelipan' target='_blank' rel='noreferrer'>
               <span className='mb-2 flex flex-row items-end border border-gray-500 p-2 rounded-lg text-sm'>
@@ -45,6 +39,14 @@ const Contact = () => {
                 CodePen
               </span>
             </a> */}
+          </div>
+          <div>
+            <p className='font-bold'>Ch N Pavan kumar</p>
+            <p className='font-thin'>Warangal,Telangana</p>
+            <a href='mailto: Theelipan@gmail.com' className='border-b-2 mt-3 inline-block border-gray-500'>
+              pavanc1997@gmail.com
+            </a>
+            <p>Phone No: 9951407063</p>
           </div>
         </div>
 
