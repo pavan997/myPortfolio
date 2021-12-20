@@ -10,6 +10,14 @@ const projects = [
     link: 'https://sachanarpit.github.io/udemy_clone/',
 
 },
+{
+  title: 'Hashnode',
+  image: './images/hashnodehomepage',
+  description: 'Hashnode is a free developer blogging platform that allows you to publish articles on your own domain and helps you stay connected with a global developer community. From this website users can write and publish their blog with appropriate tag & can like the blog.This was a collaborative project which was done by me and 4 other members in 6-days using React, HTML, CSS, MongoDB & Express.',
+  tools: ['REACT','NODE js','MongoDB','Java Script'],
+  github: 'https://github.com/bhawaniCodes/Hashnode-Clone',
+  link: 'https://hashnode-clone-orcin.vercel.app/',
+},
   {
     title: 'Makemytrip',
     image: './images/landingpagesst',
